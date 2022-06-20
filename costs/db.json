@@ -1,8 +1,8 @@
 {
   "projects": [
     {
-      "name": "projeto de infra",
-      "budget": "10000",
+      "name": "projeto de infra atualizado",
+      "budget": "1500",
       "category": {
         "id": "1",
         "name": "Infra"
@@ -16,8 +16,8 @@
         "id": "4",
         "name": "Planejamento"
       },
-      "name": "Projeto de planejamento",
-      "budget": "10000",
+      "name": "Projeto de planejamento atualizado",
+      "budget": "2500",
       "cost": 0,
       "services": [],
       "id": 8
