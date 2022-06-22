@@ -1,4 +1,4 @@
-# Project Costs from Matheus Battisti React Course
+# Project Costs
 
 This project was builded by a React course from Matheus Battisti in Youtube, the objective was learn React tools around development.
 
