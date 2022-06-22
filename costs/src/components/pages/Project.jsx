@@ -1,5 +1,5 @@
 import React from "react";
-import { parse, v4 as uuidv4 } from "uuid";
+import { v4 as uuidv4 } from "uuid";
 import { useEffect } from "react";
 import { useState } from "react";
 import { useParams } from "react-router-dom";
@@ -95,7 +95,7 @@ export default function Project() {
       .then(() => {
         setProject(projectUpdated);
         setServices(servicesUpdated);
-        setMessage('Serviço removido com sucesso!');
+        setMessage("Serviço removido com sucesso!");
       })
       .catch((err) => console.log(err));
   }

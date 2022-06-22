@@ -65,7 +65,7 @@ export default function ProjectForm({ btnText, handleSubmit, projectData }) {
         text="Selecione uma categoria"
         options={categories}
         handleOnChange={handleCategory}
-        value={project.category ? project.category.id : ''}
+        value={project.category ? project.category.id : ""}
       />
       <SubmitButton text={btnText} />
     </form>
