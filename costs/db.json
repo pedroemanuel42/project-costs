@@ -18,8 +18,15 @@
       },
       "name": "Projeto de planejamento atualizado",
       "budget": "2500",
-      "cost": 0,
-      "services": [],
+      "cost": 1000,
+      "services": [
+        {
+          "name": "Contrato de Devs",
+          "cost": "1000",
+          "description": "Contratação de devs para produção",
+          "id": "e01d6cec-fee7-46c9-81c7-737205fa0eeb"
+        }
+      ],
       "id": 8
     },
     {
